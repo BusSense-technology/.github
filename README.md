@@ -62,6 +62,7 @@ O usuário recebe vibrações e sinais sonoros através de um dispositivo sem te
 <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="NodeJS" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
 <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
 <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
 <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
