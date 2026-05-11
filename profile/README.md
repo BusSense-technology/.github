@@ -1,12 +1,117 @@
-## Hi there 👋
+# 🚌 BusSense
 
-<!--
+> Tecnologia acessível para transformar a mobilidade urbana.
 
-**Here are some ideas to get you started:**
+![Banner BusSense](/img/grupo.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+# 📖 Sobre o Projeto
+
+A **BusSense** é uma solução de tecnologia assistiva criada para aumentar a autonomia de pessoas com deficiência visual no transporte público.
+
+Nosso sistema integra dados em tempo real da **API Olho Vivo (SPTrans)** com um dispositivo wearable inteligente, fornecendo sinais táteis e sonoros que auxiliam o usuário durante seus deslocamentos urbanos.
+
+O projeto nasceu com o propósito de transformar dados urbanos em acessibilidade, inclusão e segurança.
+
+---
+
+# 🚀 Nossa Missão
+
+Promover uma mobilidade urbana mais inclusiva através da tecnologia, oferecendo mais independência, acessibilidade e segurança para pessoas com deficiência visual.
+
+---
+
+# 💡 Como Funciona
+
+## 🔹 Integração em Tempo Real
+
+Recebemos informações da API da SPTrans para identificar ônibus, linhas e rotas em tempo real.
+
+## 🔹 Processamento Inteligente
+
+Nosso backend interpreta os dados e converte as informações em comandos acessíveis.
+
+## 🔹 Tecnologia Wearable
+
+O usuário recebe vibrações e sinais sonoros através de um dispositivo sem tela, permitindo orientação intuitiva.
+
+---
+
+# 🖼️ Preview do Projeto
+
+
+---
+
+## 📱 Interface da Plataforma
+
+![Interface BusSense](/img/Interface.png)
+
+---
+
+## 📡 Sistema Wearable
+
+![Wearable BusSense](/img/relogio.png)
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="NodeJS" />
+<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express" />
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+
+</div>
+
+---
+
+# 🌍 Impacto Social
+
+A BusSense foi criada pensando em acessibilidade real.
+
+Acreditamos que a tecnologia deve aproximar pessoas, eliminar barreiras e criar cidades mais humanas.
+
+Nosso objetivo é contribuir para uma mobilidade pública mais inclusiva e acessível para todos.
+
+---
+
+# 👨‍💻 Equipe
+
+Somos estudantes do **PROA**, unidos pela paixão por tecnologia, inovação e impacto social.
+
+A BusSense representa nossa visão de um futuro mais acessível através da tecnologia.
+
+---
+
+# 📬 Contato
+
+📧 [contato.bussense@gmail.com](mailto:contato.bussense@gmail.com)
+
+🔗 [Linkedin](https://www.linkedin.com/company/bussense/)
+
+🔗 [GitHub](https://github.com/BusSense-technology)
+
+---
+
+# ⭐ Apoie o Projeto
+
+Se você gostou da proposta da BusSense:
+
+* ⭐ Favorite o repositório
+* 🍴 Faça um fork
+* 🤝 Compartilhe o projeto
+* 💡 Contribua com ideias
+
+---
+
+<div align="center">
+
+### BusSense • Autonomia além da visão
+
+</div>
